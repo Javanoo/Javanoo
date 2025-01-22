@@ -5,8 +5,8 @@ Welcome to my github profile, my name is Matthews and  I'm a passionate develope
 ## About Me
 - 🔭 I’m currently working on **DSA**
 - 🌱 I’m currently learning **advanced Spring Boot** and diving deeper into **JavaFX**.
-- 💬 Ask me about ****Java, Backend Development, REST APIs and PHP**
-- ⚡ power quote : "The only constant is change."
+- 💬 Ask me about **Java, Backend Development, REST APIs and PHP**
+- ⚡ power quote : **"The only constant is change."**
 
 ## 💻 Tech Stack
 
