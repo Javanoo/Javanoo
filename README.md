@@ -34,8 +34,8 @@ Welcome to my github profile, my name is Matthews and  I'm a passionate develope
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javanoo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javanoo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javanoo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javanoo&layout=compact&theme=tokyonight)
 
 ---
 
