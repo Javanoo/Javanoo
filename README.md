@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my github profile, my name is Matthews and  i love building stuff with all kinds of different techs. My passion though, lies in backend development but am also a full stack ready developer.
+Welcome to my github profile, my name is Matthews and  i love building stuff with all kinds of different tech stack. My passion lies in backend development but am also a full-stack-ready developer.
 
 ## About Me
 - 🔭 I’m currently working on redefining this github profile.
@@ -31,10 +31,11 @@ Welcome to my github profile, my name is Matthews and  i love building stuff wit
 ![Bluefish](https://img.shields.io/badge/Bluefish-2E8B57?style=for-the-badge&logo=bluefish&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<!--
 ---
 
-<!--## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javanoo&layout=compact&theme=tokyonight)-->
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javanoo&layout=compact&theme=tokyonight)
 
 ---
 
