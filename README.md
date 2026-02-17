@@ -33,12 +33,12 @@ Welcome to my github profile, my name is Matthews and  i love building stuff wit
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javanoo&layout=compact&theme=tokyonight)
+<!--## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javanoo&layout=compact&theme=tokyonight)-->
 
 ---
 
-<--! ## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=javanoo&theme=radical) -->
 
 ---
