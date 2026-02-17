@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Welcome to my github profile, my name is Matthews and  I'm a passionate developer who loves building powerful applications and exploring new technologies. Here's a little about me and what I do.
+Welcome to my github profile, my name is Matthews and  i love building stuff with all kinds of different techs. My passion though, lies in backend development but am also a full stack ready developer.
 
 ## About Me
-- 🔭 I’m currently working on **DSA**
-- 🌱 I’m currently learning **advanced Spring Boot** and diving deeper into **JavaFX**.
-- 💬 Ask me about **Java, Backend Development, REST APIs and PHP**
+- 🔭 I’m currently working on redefining this github profile.
+- 🌱 I’m currently diving deeper into **Backend Development**.
+- 💬 Ask me about **Java, Backend Development, REST APIs, MySQL, Spring, PHP, Bash and IT in general**
 - ⚡ power quote :  <mark> *"The only constant is change."* </mark>
 
 ## 💻 Tech Stack
@@ -38,8 +38,8 @@ Welcome to my github profile, my name is Matthews and  I'm a passionate develope
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=javanoo&theme=radical)
+<--! ## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=javanoo&theme=radical) -->
 
 ---
 
