@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my github profile, my name is Matthews and  i love building stuff with all kinds of different tech stack. My passion lies in backend development but am also a full-stack-ready developer.
+Welcome fellow wanderer, am Matthews. And since you are here, I can not help it but think of one thing, and that is; you would like to see some of my work. Hence, let's explore.
 
 ## About Me
 - 🔭 I’m currently working on redefining this github profile.
