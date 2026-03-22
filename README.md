@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Welcome fellow wanderer, am Matthews. And since you are here, I can not help it but think of one thing, and that is; you would like to see some of my work. Hence, let's explore.
-
+Welcome fellow wanderer, am Matthews. And since you are here, I can not help it but think of one thing, and that is; you would like to see some of my work. Hence without any delays, lets explore...
 ## About Me
 - 🔭 I’m currently working on redefining this github profile.
 - 🌱 I’m currently diving deeper into **Backend Development**.
